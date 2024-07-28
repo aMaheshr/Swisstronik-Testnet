@@ -29,7 +29,11 @@ git clone " Your Repo URL "
 cd " Repo Name "
 ```
 
-- Change ur File name 
+- Change ur File name
+
+```console
+chmod +x name.sh
+```
 
 ```console
 ./name.sh
