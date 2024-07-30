@@ -17,7 +17,7 @@ https://chromewebstore.google.com/detail/swisstronik/acfhdnikkbldnocbgmfginnmhjf
 ##  Create a Repository on Github
 
 
-- create a " name.sh File " ( copy Code and Paste inside name.sh File ) : Code : https://github.com/aMaheshr/Swisstronik-Testnet/blob/main/swisstronik.sh
+- create a " name.sh File " ( copy Code and Paste inside name.sh File ) : Code : https://github.com/aMaheshr/nodes/blob/main/swisstronik.sh
   
 ![zz](https://github.com/user-attachments/assets/1cdc3dbb-b570-409f-9bac-53772c45dda9)
   
