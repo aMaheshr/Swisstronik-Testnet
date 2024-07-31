@@ -41,6 +41,7 @@ chmod +x name.sh
 
  - Press Enter & Again Press Enter
  - Press Y & Again Press Y
+ - Enter Private key 
    
  Remember Don't Press 'N' ur Private key will Expose
 
